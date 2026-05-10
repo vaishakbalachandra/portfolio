@@ -9,6 +9,7 @@ import Projects from '@/components/Projects'
 import Skills from '@/components/Skills'
 import Certifications from '@/components/Certifications'
 import Publications from '@/components/Publications'
+
 import Achievements from '@/components/Achievements'
 import Contact from '@/components/Contact'
 import ParticleBackground from '@/components/ParticleBackground'
@@ -58,7 +59,7 @@ export default function Home() {
         <Certifications />
         <Publications />
         <Achievements />
-        <Testimonials />
+        
         <Contact />
       </div>
 
