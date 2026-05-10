@@ -1,5 +1,5 @@
 # Vaishak Balachandra - Premium Portfolio Website
-
+###  Updated: May 2026
 A $100,000-caliber portfolio website built with Next.js, React, Tailwind CSS, and Framer Motion. This premium-tier portfolio showcases Machine Learning and GenAI expertise with stunning animations, 3D particle effects, and modern design.
 
 ## 🚀 Features
